@@ -1,0 +1,11 @@
+
+delegate facultyExists to FacultyService so u do not need to inject facultyreopository into departmentservice
+NB: if you try to insert a department with a faculty tid that doesnt exist there will be an integrity constrainst exception 
+
+departmentservice line 24,44
+
+
+git remote add origin https://github.com/jaidadelahuya/test.git
+
+
+git push -u origin main
